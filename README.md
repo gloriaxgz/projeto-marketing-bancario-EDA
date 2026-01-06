@@ -23,7 +23,7 @@ O foco do projeto é **transformar dados operacionais e demográficos em insight
 | Arquivo | Descrição |
 | :--- | :--- |
 | `analise-marketing-bancario.ipynb` | Notebook principal do projeto. Contém toda a EDA, visualizações, análise de variáveis e interpretação dos resultados. |
-| `Dashboard.pdf` | Visualização de dados realizada no PowerBI, visando trazer insights importantes e que gerem ações para benefício da empresa. |
+| `Dashboards.pdf` | Visualização de dados realizada no PowerBI, visando trazer insights importantes e que gerem ações para benefício da empresa. |
 | `README.md` | Documentação do projeto, descrição do problema, metodologia e principais insights. |
 
 ---
